@@ -1,0 +1,7 @@
+Now we would be installing the text editor Vim
+now in the terminal you just opened 
+type 
+
+*sudo apt intsall vim* (Make sure sudo commands are enabled for windows in developer options)
+
+now we would do some basic tasks in Vim
