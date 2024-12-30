@@ -1,0 +1,17 @@
+Intro to Linux
+
+Step 1 (Windows)
+
+search for "Turn Windows features on or off"
+
+Then Check These options
+
+1. Work Folders Client
+2. Windows Subsystem for Linux
+3. Powershell 2.0
+4. Virtual Machine Platform 
+5. Remote Diffrential Compression API Support
+
+Then Click Ok
+
+Now Restart, and then open command prompt in Admin Mode
