@@ -15,3 +15,13 @@ Then Check These options
 Then Click Ok
 
 Now Restart, and then open command prompt in Admin Mode
+ now 
+
+put the first command "bash", this gives you 2 commands or a link to the microsoft store ( I have put the commands here)
+
+Type "wsl.exe --list --online" to see the list of Distros to install 
+of the following list select ubuntu
+
+Now, type "wsl.exe --install Ubuntu" and let it install 
+
+set a username for yourself (except root) and set a password and you are good to go
