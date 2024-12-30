@@ -1,0 +1,26 @@
+to create a file in Vim 
+write 
+"file name.the type of file"
+
+For example to create a c++ file named test
+
+type, " vim test.c++"
+this creates and opens the file in view mode 
+
+there are different ways to edit this file 
+
+different ways are:
+
+i --> goes to insert mode and type in normally 
+a --> goes into insert moder and the cursor shifts one to the right
+o --> goes into insert mode below the cursor from new line
+
+I --> Goes to Insert in the beginning of the line
+A --> Goes to insert at the end of the line
+O --> Goes to insert above the cursor in a new line
+
+to get out of edit mode press escape key and then press ":w" to edit and exit the file 
+
+NOTE: to get out of any file that you have not edited, simply press ":q"
+
+NOTE: if you have typed the file but wan to revert changes type ":q!" to override text and reset close the file
