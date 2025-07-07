@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int main(){
-    
     int mat1[100][100], mat2[100][100], choice;
 
     printf("WELCOME TO MATRIX OPS\n ******************\n Enter a choice\n 1. Add Matrices \n 2. Subtract Matrices \n 3. Multiply \n 4. Transpose \n 5. Find Symmetry");
